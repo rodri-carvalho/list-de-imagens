@@ -1,0 +1,63 @@
+.main{
+    margin-top: 129px;
+    display: flex;
+}
+
+
+
+.main .rome h1 {
+    display: flex;
+    position: absolute;
+    translate: 40px -120px;
+}
+
+
+.main .rome p{
+    display: flex;
+    position: absolute;
+    translate: 40px -77px;
+}
+
+.main .boat h1 {
+    display: flex;
+    position: absolute;
+    translate: 40px -120px;
+}
+
+
+.main .boat p{
+    display: flex;
+    position: absolute;
+    translate: 40px -77px;
+}
+
+.main .sea h1 {
+    display: flex;
+    position: absolute;
+    translate: 40px -120px;
+}
+
+
+.main .sea p{
+    display: flex;
+    position: absolute;
+    translate: 40px -77px;
+}
+
+.main .night h1 {
+    display: flex;
+    position: absolute;
+    translate: 40px -120px;
+}
+
+
+.main .night p{
+    display: flex;
+    position: absolute;
+    translate: 40px -77px;
+
+}
+
+
+
+
